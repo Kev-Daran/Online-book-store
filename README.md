@@ -10,5 +10,5 @@
 # Login Page
 ![login](https://user-images.githubusercontent.com/81677957/152656096-02d9b7bc-cf21-47b5-8316-e8ae20b12ecf.png)
 
-# Register Page
+# Registration Page
 ![register](https://user-images.githubusercontent.com/81677957/152656099-629db056-e516-41ed-9cc3-702a38eb2c6e.png)
