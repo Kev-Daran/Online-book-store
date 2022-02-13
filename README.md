@@ -13,5 +13,5 @@
 # Registration Page
 ![register](https://user-images.githubusercontent.com/81677957/152656099-629db056-e516-41ed-9cc3-702a38eb2c6e.png)
 
-# Poruct Details Page
+# Product Details Page
 ![image](https://user-images.githubusercontent.com/81677957/153742359-a4d9bfb6-c3d5-4904-ad04-a04c9baad07a.png)
